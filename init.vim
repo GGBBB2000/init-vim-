@@ -2,6 +2,7 @@ call plug#begin()
 Plug 'w0rp/ale'
 Plug 'bling/vim-bufferline'
 Plug 'junegunn/vim-peekaboo'
+Plug 'vim-airline/vim-airline'
 call plug#end()
 
 set number
